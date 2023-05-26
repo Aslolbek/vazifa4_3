@@ -77,10 +77,11 @@ app.delete("/", async (req, res)=>
         if(baza[i].id===newData.id)
         {
           baza.splice(i, 1)
+          res.send("Deleted successfully")  
         }
       }
       await Baza.write(baza) 
-    res.send("Deleted successfully")
+    
 
 });
 
