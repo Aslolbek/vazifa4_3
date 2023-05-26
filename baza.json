@@ -1,0 +1,32 @@
+[
+  {
+    "name": "piyoz",
+    "value": 5,
+    "id": 1
+  },
+  {
+    "name": "olma",
+    "value": 5,
+    "id": 2
+  },
+  {
+    "name": "qovun",
+    "value": 5,
+    "id": 3
+  },
+  {
+    "name": "tarvuz",
+    "value": 5,
+    "id": 4
+  },
+  {
+    "name": "banan",
+    "value": 5,
+    "id": 5
+  },
+  {
+    "name": "kartoshka",
+    "value": 10,
+    "id": 6
+  }
+]
